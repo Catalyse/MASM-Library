@@ -1,0 +1,6 @@
+W:2, 3, 7, 2, 5, 4, 2, 5, 3, 4, 4 -- AVG == 4.1 == 37% / Target == 30%
+B:1, 2, 0, 0, 2, 1, 1, 2, 2, 0, 0 -- AVG == 1.1 == 10% / Target == 10%
+G:7, 5, 3, 8, 3, 5, 7, 3, 5, 6, 6 -- AVG == 5.8 == 53% / Target == 60%
+Out of 10 Numbers, 10 Trials
+
+The values were relatively close to their target goals, with blue being right on, and green/white varying slightly.
